@@ -1,6 +1,6 @@
 # _Count Up_
 
-#### _A program that takes two numbers as input and uses the former to count to the later. 04.02.2019_
+#### _A program that takes two numbers as input and uses the first input to count to the second input. 04.02.2019_
 
 #### By _**Kevin Garvey**_
 
