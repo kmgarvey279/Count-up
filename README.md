@@ -11,9 +11,9 @@
 
 ## Specs
 
-*_The program will allow the user to input a number to count to and a number to count by._
-*_If the number to count by is greater than the number to count to, one of the inputs is not a number, or if one of the numbers is positive and one is negative it will return an error._
-*_Otherwise, it will add the number to count by to itself, and then continue to add the original number to the current value until it is greater than or equal to the number to count to._
+* _The program will allow the user to input a number to count to and a number to count by._
+* _If the number to count by is greater than the number to count to, one of the inputs is not a number, or if one of the numbers is positive and one is negative it will return an error._
+* _Otherwise, it will add the number to count by to itself, and then continue to add the original number to the current value until it is greater than or equal to the number to count to._
 
 ## Known Bugs
 
